@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ivProfileIcon" type="id" />
+    <item name="tvTitle" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="etPassword" type="id" />
+    <item name="tvForgotPassword" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="tvSignUp" type="id" />
+    <item name="etConfirmPassword" type="id" />
+    <item name="btnSignUp" type="id" />
+    <item name="tvLogIn" type="id" />
+</resources>
